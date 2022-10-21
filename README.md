@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @venkataramanagovindu
-- 👀 I’m interested in web development and Javascript enthisiast
+- 👀 I’m interested in web development and a Javascript enthisiast
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me (https://www.linkedin.com/in/venkataramana-govindu-a33a18166/)
 
